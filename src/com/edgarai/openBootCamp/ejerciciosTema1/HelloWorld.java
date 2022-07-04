@@ -15,5 +15,29 @@ public class HelloWorld {
         int number = 10;
         System.out.println("Ejemplo de int:     " + number);
 
+        // long type example
+        long longNumber = 10L;
+        System.out.println("Ejemplo de long:    " + longNumber);
+
+        // float type example
+        float floatNumber = 10.0f;
+        System.out.println("Ejemplo de float:   " + floatNumber);
+
+        // double type example
+        double doubleNumber = 10.5;
+        System.out.println("Ejemplo de double:  " + doubleNumber);
+
+        // boolean type example
+        boolean boolValue = true;
+        System.out.println("Ejemplo de boolean: " + boolValue);
+
+        // char type example
+        char character = 'a';
+        System.out.println("Ejemplo de char:    " + character);
+
+        // String type example
+        String text = "Hola, mundo!";
+        System.out.println("Ejemplo de String:  " + text);
+
     }
 }
