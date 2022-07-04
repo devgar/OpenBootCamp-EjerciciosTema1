@@ -8,6 +8,12 @@ public class HelloWorld {
      * @author Edgar Albalate
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("A continuación se muestra ejemplos de los distintos tipos de Java");
+        System.out.println("-----------------------------------------------------------------");
+
+        // int type example
+        int number = 10;
+        System.out.println("Ejemplo de int:     " + number);
+
     }
 }
