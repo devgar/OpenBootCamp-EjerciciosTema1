@@ -3,7 +3,7 @@ package com.edgarai.openBootCamp.ejerciciosTema1;
 public class HelloWorld {
 
     /**
-     * Main function, prints "Hello World"
+     * Main function, prints examples of values using different java types
      * @param args the command line arguments
      * @author Edgar Albalate
      */
