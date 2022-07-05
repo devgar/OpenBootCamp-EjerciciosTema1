@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="560dec84-c721-4d3e-a9ad-c66f61f449eb" name="Changes" comment="Changes existing javadoc">
+    <list default="true" id="560dec84-c721-4d3e-a9ad-c66f61f449eb" name="Changes" comment="Adds long, float, double, boolean, char and String examples.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/edgarai/openBootCamp/ejerciciosTema1/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/edgarai/openBootCamp/ejerciciosTema1/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656911027013</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Adds long, float, double, boolean, char and String examples.">
+      <created>1656911345473</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656911345473</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +128,7 @@
     <MESSAGE value="Adds javadoc to main function" />
     <MESSAGE value="Starts requested exercise workflow." />
     <MESSAGE value="Changes existing javadoc" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes existing javadoc" />
+    <MESSAGE value="Adds long, float, double, boolean, char and String examples." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds long, float, double, boolean, char and String examples." />
   </component>
 </project>
